@@ -1,9 +1,6 @@
-# ShoppingCartBackend_using-OOPS-in-Cpp
+# ShoppingCart-OOPS-in-Cpp
 
-
-# A perfect Blend of Data-Structures and OOPS to build a real-time backend system
-## This project makes use of a Hashmap in C++ to keep track of the products in the carts
-## It also uses the KISS(Keep It Simple Stupid) and DRY(Don't epeat Yourself) Object Oriented Principles 
+## This project makes use of a Hashmap in C++ to keep track of the products in the carts 
 
 This is a repository that contains files related to the project of a real time Shopping Cart Backend in C++
 
